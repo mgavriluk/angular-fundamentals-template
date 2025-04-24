@@ -1,8 +1,8 @@
-import { Pipe } from '@angular/core';
+import { Pipe } from "@angular/core";
 
 @Pipe({
-    name: 'customDate'
+  name: "customDate",
 })
 export class CustomDatePipe {
-    // Add your code here
+  // Add your code here
 }
